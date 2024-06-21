@@ -1,7 +1,5 @@
-# Introduction to Data Analytics and Artificial Intelligence : degree course 
+# Introduction to Data Analytics and Artificial Intelligence  
 
-Name: Mays AL-Azzawi
 
-year: 2023
 
-Notes:
+
